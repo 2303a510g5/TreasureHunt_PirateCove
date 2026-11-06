@@ -43,6 +43,8 @@ The project was created as a university game-development project at **SR Univers
 ## 🖼️ Screenshots
 
 <img width="1087" height="508" alt="WhatsApp Image 2026-11-06 at 1 07 23 PM" src="https://github.com/user-attachments/assets/32df15dc-44b9-4ab4-8b44-293a0e38f4bd" />
+<img width="550" height="254" alt="Screenshot 2026-11-06 130744" src="https://github.com/user-attachments/assets/af28460b-18ca-4b33-874b-a8b026e36feb" />
+<img width="543" height="254" alt="Screenshot 2026-11-06 130804" src="https://github.com/user-attachments/assets/37708bc5-3e9d-4fe3-ab8f-a30375032955" />
 
 
 ---
