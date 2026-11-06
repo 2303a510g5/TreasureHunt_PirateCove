@@ -42,15 +42,8 @@ The project was created as a university game-development project at **SR Univers
 
 ## 🖼️ Screenshots
 
-> Add your own screenshots to a `docs/` folder and update the paths below.
+<img width="1087" height="508" alt="WhatsApp Image 2026-11-06 at 1 07 23 PM" src="https://github.com/user-attachments/assets/32df15dc-44b9-4ab4-8b44-293a0e38f4bd" />
 
-| Main Menu | Gameplay |
-|:---:|:---:|
-| ![Main menu](docs/menu.png) | ![Gameplay](docs/gameplay.png) |
-
-| Level Select | Game Over |
-|:---:|:---:|
-| ![Levels](docs/levels.png) | ![Game over](docs/gameover.png) |
 
 ---
 
